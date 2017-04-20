@@ -1,0 +1,8 @@
+1 = ???
+2 = Question
+3 = !!! / yes
+4 = yes answer
+5 = !!! / n
+6 = no answer
+7 = continue conversation
+Test1

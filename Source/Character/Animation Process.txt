@@ -1,0 +1,6 @@
+0	- 	16	= Idle		18  = t-pose
+20	-	36	= Running	38  = t-pose
+40	-	56	= Jumping	58  = t-pose
+60	-	76	= Falling	78  = t-pose
+80	-	96	= Crying	98  = t-pose
+100	-	116	= Dance		118 = t-pose
